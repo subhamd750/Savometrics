@@ -1,1 +1,13 @@
+2025/04/10
+---------------------------
+Question i have asked in the meeting
+1. GHJ pipeline document referenced links have not access.
+2. Git from where we need to look at codes for GHJ ETL Pipeline.
+4. What is the use of cosmos Db.
+5. Need to understand is there any link between cosmos DB and AWS S3.
+6. In products page the data comes from which place cosmos DB or AWS S3?
+7. Need to understand how reports are being generated in AWS S3.
+8. Need to understand how external files links are ETL to AWS S3.
+9. How report details page using HTML files from AWS S3.
 
+Python Training
